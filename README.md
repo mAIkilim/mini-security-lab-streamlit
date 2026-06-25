@@ -192,5 +192,7 @@ Pada eksperimen Secure File Vault, kehilangan encryption key menyebabkan file ti
 **Michael Lim**
 
 Mahasiswa Informatika
+
 Fakultas Teknologi Industri
+
 Universitas Atma Jaya Yogyakarta
